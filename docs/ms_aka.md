@@ -140,6 +140,16 @@ Stop typing `aka.ms/` every time. Set up a custom search engine keyword.
 
 ---
 
+## 💻 PowerShell Integration
+Take these shortcuts to your terminal! 
+
+1. Download `MicrosoftShortcuts.ps1` from this repo.
+2. Add this line to your PowerShell `$PROFILE`:
+   `. C:\Path\To\MicrosoftShortcuts.ps1`
+3. Now you can type `Go-Users` or `Show-MSMenu` directly in your terminal to launch portals instantly.
+
+---
+
 ## 🤝 Contributing
 Found a missing link? 
 1. **Fork** the repo.
