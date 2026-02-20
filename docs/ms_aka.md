@@ -159,11 +159,10 @@ Found a missing link?
 ---
 
 ## 👨‍💻 About Me
-Hi! I'm **[Your Name]**. I built this repo to streamline my workflow as a Microsoft Admin. I'm passionate about automation and making technical tools accessible.
+Hi! I'm **Dev01-D**. I built this repo to streamline my workflow as a Microsoft Admin. I'm passionate about automation and making technical tools accessible.
 
 * 🔭 I’m currently working on improving M365 workflows.
 * 💬 Ask me about: Azure AD, Intune, or Cloud Security.
-* 📫 Reach me: [Your Link/Email]
 * ⭐️ Star this repo if it helped you!
 
 ---
