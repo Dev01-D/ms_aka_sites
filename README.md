@@ -1,4 +1,4 @@
-# 🚀 Microsoft aka.ms Command Shortcuts
+# 🚀 Microsoft aka.ms Power tools
 
 ![Maintained](https://img.shields.io/badge/Maintained%3F-yes-green.svg)
 ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)
