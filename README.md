@@ -3,6 +3,8 @@
 A modular repository of shortcuts, PowerShell one-liners, and Registry fixes for modern IT Service Desk technicians.
 
 ## 📁 Quick Navigation
+
+* [🔗 Microsoft aka List](./docs/ms_aka.md) - Curated short-links for Microsoft admin centers and direct settings.
 * [🌐 Networking & Connectivity](./docs/network.md) - Adapter fixes, DNS, and Remote Desktop.
 * [⚙️ System & OS](./docs/system.md) - Registry hacks, User Rights, and Services.
 * [💻 Hardware & BIOS](./docs/hardware.md) - Battery health, Serials, and Thermal checks.
