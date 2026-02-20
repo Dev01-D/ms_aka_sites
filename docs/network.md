@@ -8,3 +8,6 @@
 | `mstsc` | Remote Desktop | Connect to a remote server or user machine. |
 | `cmd /k ipconfig /flushdns` | DNS Flush | Resolve "Site can't be reached" errors immediately. |
 | `cmd /k ping -t 8.8.8.8` | Continuous Ping | Check for intermittent packet loss or ISP drops. |
+
+## 📶 Wireless Diagnostics
+* **WiFi History:** `netsh wlan show profiles` (Lists all previously connected networks).
