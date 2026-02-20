@@ -19,5 +19,14 @@ A modular repository of shortcuts, PowerShell one-liners, and Registry fixes for
 | `Ctrl + C` (on error box) | Copies the text of the error message to clipboard |
 | `Win + X, U, U` | Fast Shutdown |
 
+## ⌨️ Advanced Keyboard Navigation
+*Teach these to technicians for navigating a user's PC when their mouse is broken or lagging.*
+
+* **Win + V**: Opens **Clipboard History**. (Must be enabled first, but a lifesaver for repetitive data entry).
+* **Win + Period (.)**: Opens the **Emoji/Symbol picker**. Great for finding arrows or special characters for documentation.
+* **Alt + Space, then X**: Maximizes the current window.
+* **Alt + Space, then M**: Move a window using arrow keys (essential when a window is "stuck" off-screen on a disconnected second monitor).
+* **Ctrl + Win + Left/Right Arrow**: Switch between **Virtual Desktops**. Useful for keeping "Personal" and "IT Work" separate during a screen share.
+
 > [!TIP]
 > To run any command as **Admin** from the Run box (Win+R), press `Ctrl + Shift + Enter`.
