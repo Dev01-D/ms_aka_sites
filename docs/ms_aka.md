@@ -159,7 +159,7 @@ Found a missing link?
 ---
 
 ## 👨‍💻 About Me
-Hi! I'm **Dev01-D**. I built this repo to streamline my workflow as a Microsoft Admin. I'm passionate about automation and making technical tools accessible.
+Hi! I'm **Dev01-D**. I built this repo as part of my commitment to the IT Industry and to streamline engineers workflows.
 
 * 🔭 I’m currently working on improving M365 workflows.
 * 💬 Ask me about: Azure AD, Intune, or Cloud Security.
